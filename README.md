@@ -30,5 +30,8 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 
 More about Cosine Similarity :[Understanding the Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 
+## Similarity pkl file
+Due to its larger size of >100MB, i couldn't able to upload it. But it the user will run the notebook then you can easily see it on your device destination folder.
+
 # Sources of the datasets
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata

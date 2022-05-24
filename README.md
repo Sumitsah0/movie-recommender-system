@@ -1,3 +1,11 @@
+# Content-based-Movie-Recommendation-System
+
+![Python](https://img.shields.io/badge/Python-3.9-lightblue)
+![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
+![API](https://img.shields.io/badge/API-TMDB-fcba03)
+![Deploy](https://img.shields.io/badge/Deploy-Heroku-violet)
+
+
 # movie-recommender-system
 Content-Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
